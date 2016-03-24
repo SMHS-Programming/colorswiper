@@ -12,10 +12,11 @@ What you will learn: HTML/CSS and jQuery.
 
 <img src="http://i.imgur.com/mJ6aHaF.png">
 
-2. Create an account and login.
-3. Once you log in, create a new ```workspace```.
-4. Fill Clone from Git or Mercurial URL with: ```https://github.com/SMHS-Programming/colorswiper.git```
+1. Create an account and login.
+2. Once you log in, click on the big ```Creat a new workspace```.
+3. Fill out the information, custom game name and description (doesn't need to be exact as mine)
+4. _IMPORTANT_ Fill the 'Clone from Git or Mercurial URL' with: ```https://github.com/SMHS-Programming/colorswiper.git```
 
 <img src="http://i.imgur.com/f7H0C7r.png">
 
-5. Get Started!
+Get Started!
