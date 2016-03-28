@@ -10,32 +10,32 @@ As we go by, this README will be updated to the current progress we are in. Hope
 
 ## Index
 
-- [Getting started]("#getting-started")
-- [Get to know how to test your app]("#get-to-know-how-to-test-your-game")
+- [Getting started](#getting-started)
+- [Get to know how to test your app](#get-to-know-how-to-test-your-game)
 
 ## Getting Started
 
 - Start off going into [c9.io](https://c9.io). We will be working most of time on this platform.
 
-![C9.io and Sign in]("readme_images/getting-started/01.png")
+![C9.io and Sign in](readme_images/getting-started/01.png)
 
 - Create an account and/or login with your Github Account.
 
-![Sign in into Github]("readme_images/getting-started/02.png")
-![Sign In]("readme_images/getting-started/03.png")
+![Sign in into Github](readme_images/getting-started/02.png)
+![Sign In](readme_images/getting-started/03.png)
 
 - Once you logged in, click on the big ```Create a new workspace```.
 
-![Create workspace]("readme_images/getting-started/04.png")
+![Create workspace](readme_images/getting-started/04.png)
 
 - Fill out the information just like in the image below, with your custom name and description.
 - **IMPORTANT** Fill the 'Clone from Git or Mercurial URL' with: ```https://github.com/SMHS-Programming/colorswiper-init.git```
 
-![Create workspace]("readme_images/getting-started/05.png")
+![Create workspace](readme_images/getting-started/05.png)
 
 - Throughout the workshop, we will be using these terms below.
 
-![Name]("readme_images/getting-started/06.png")
+![Name](readme_images/getting-started/06.png)
 
 Get Started!
 
@@ -50,10 +50,10 @@ curl -sL https://git.io/vtbp6 | sudo dd of=/usr/local/bin/live_reload && sudo ch
 
 - This might take a couple of minutes.
 
-![Start live reload]("readme_images/get-to-know-c9/01_simple-deplay.gif")
+![Start live reload](readme_images/get-to-know-c9/01_simple-deplay.gif)
 
 - Once done (with ```Watching Files...```), hop into your editor and type in anything you want on the body tags.
 - Now, to demonstrate your app, go into ```Preview```, hit the Run as Live Application.
 - And you are all set! Now you have learned how to run your application from c9.io.
 
-![Deploy!]("readme_images/get-to-know-c9/02_simple-deplay.gif")
+![Deploy!](readme_images/get-to-know-c9/02_simple-deplay.gif)
