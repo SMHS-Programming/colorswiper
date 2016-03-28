@@ -50,10 +50,10 @@ curl -sL https://git.io/vtbp6 | sudo dd of=/usr/local/bin/live_reload && sudo ch
 
 - This might take a couple of minutes.
 
-![Start live reload](readme_images/get-to-know-c9/01_simple-deplay.gif)
+![Start live reload](readme_images/get-to-know-c9/01.gif)
 
 - Once done (with ```Watching Files...```), hop into your editor and type in anything you want on the body tags.
 - Now, to demonstrate your app, go into ```Preview```, hit the Run as Live Application.
 - And you are all set! Now you have learned how to run your application from c9.io.
 
-![Deploy!](readme_images/get-to-know-c9/02_simple-deplay.gif)
+![Deploy!](readme_images/get-to-know-c9/02.gif)
