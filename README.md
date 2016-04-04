@@ -12,6 +12,7 @@ As we go by, this README will be updated to the current progress we are in. Hope
 
 - [Getting started](#getting-started)
 - [Get to know how to test your app](#get-to-know-how-to-test-your-game)
+<!-- - [Structuring your game](#structuring-your-game) -->
 
 ## Getting Started
 
@@ -42,18 +43,14 @@ Get Started!
 ## Get to know how to test Your Game.
 
 - Start by opening ```index.html```, which will pop up on your editor.
-- Follow up by going into the console, and typing in the following command:
+- Hop into your editor and type in anything you want on the body tags.
+- Now, to demonstrate your app, right click on the file, and click ```Preview```.
 
-```
-curl -sL https://git.io/vtbp6 | sudo dd of=/usr/local/bin/live_reload && sudo chmod +x /usr/local/bin/live_reload && live_reload
-```
+![Preview](https://github.com/hackclub/hackclub/raw/master/workshops/cloud9/img/preview.gif)
 
-- This might take a couple of minutes.
-
-![Start live reload](readme_images/get-to-know-c9/01.gif)
-
-- Once done (with ```Watching Files...```), hop into your editor and type in anything you want on the body tags.
-- Now, to demonstrate your app, go into ```Preview```, hit the Run as Live Application.
 - And you are all set! Now you have learned how to run your application from c9.io.
 
-![Deploy!](readme_images/get-to-know-c9/02.gif)
+<!-- ## Stucturing your game
+
+- Our game constitutes of 3 main parts.
+- Title of the Gam -->
