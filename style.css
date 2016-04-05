@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    color: blue;
+    font-size: 70px;
+    font-family: fantasy;
+}
+#left{
+    background-color: green;
+}
+#bottom{
+    background-color: red;
+}
+#right{
+    background-color:blue;
+}

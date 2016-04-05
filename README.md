@@ -10,9 +10,13 @@ As we go by, this README will be updated to the current progress we are in. Hope
 
 ## Index
 
+<<<<<<< Updated upstream
 - [Getting started](#getting-started)
 - [Get to know how to test your app](#get-to-know-how-to-test-your-game)
 <!-- - [Structuring your game](#structuring-your-game) -->
+=======
+- [Getti]("#getting-started")
+>>>>>>> Stashed changes
 
 ## Getting Started
 
@@ -46,9 +50,18 @@ Get Started!
 - Hop into your editor and type in anything you want on the body tags.
 - Now, to demonstrate your app, right click on the file, and click ```Preview```.
 
+<<<<<<< Updated upstream
 ![Preview](https://github.com/hackclub/hackclub/raw/master/workshops/cloud9/img/preview.gif)
 
 - And you are all set! Now you have learned how to run your application from c9.io.
+=======
+![C9.io]("http://i.imgur.com/mJ6aHaF.png")
+
+2. Create an account and/or login.
+3. Once you logged in, click on the big ```Create a new workspace```.
+4. Fill out the information, custom game name and description (doesn't need to be exact as mine)
+5. ***IMPORTANT*** Fill the 'Clone from Git or Mercurial URL' with: ```https://github.com/SMHS-Programming/colorswiper.git```
+>>>>>>> Stashed changes
 
 <!-- ## Stucturing your game
 
